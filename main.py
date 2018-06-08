@@ -1,15 +1,14 @@
 import tweepy
+from time import sleep
 import generate_text
-
 from tokens import *
 
 class TweetBot:
-    def __init__(self, corpus):
-        self.load_corpus(corpus)
+    def __init__(self):
 
         # initialize Twitter authorization with Tweepy
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        auth.set_access_token(access_token, access_token_secret)
+        auth.set_access_token(access_token, access_secret)
         self.api = tweepy.API(auth)
 
     def tweet(self):
@@ -26,9 +25,8 @@ class TweetBot:
 
 
 def main():
-    bot = TweetBot("corpus.txt")
+    bot = TweetBot()
     bot.automate(3600)
-
 
 if __name__ == "__main__":
     main()
