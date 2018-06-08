@@ -1,30 +1,23 @@
 # imports
-import string
 import random
 import nltk
-
-# Import source material & dictionary
-text = nltk.corpus.webtext.sents('wine.txt')
-cmu = nltk.corpus.cmudict.dict()
+from generate_word_list import syls_1, syls_2, of_syls_2, count_syllables
 
 
-# Syllable counting function
-# Stolen from:
-def count_syllables(word):
-    lower_word = word.lower()
-    if lower_word in cmu:
-        return max([len([y for y in x if y[-1] in string.digits])
-                    for x in cmu[lower_word]])
-
-
-# Generate the text
-def generate_lyrics(corpus=text):
+# Not using this function
+def generate_words_grammar(corpus='wine.txt'):
+    """
+    Generates words based based on grammar parsing
+    :param corpus: the text to pull from
+    :return:
+    """
     syls_1 = []
     syls_2 = []
     # Loop until we have 3 1 syllable words and 6 two syllable words
     while len(syls_2) < 6 or len(syls_1) < 3:
         # Pick a random sentence from the text and detect verbs, nouns etc.
-        my_sent = random.choice(corpus)
+        corpus_sents = nltk.corpus.webtext.sents(corpus)
+        my_sent = random.choice(corpus_sents)
         parsed_sent = nltk.pos_tag(my_sent)
         for word in parsed_sent:
             # If noun, verb, determinant, not 'the' and more than 1 character long...
@@ -46,9 +39,17 @@ def generate_lyrics(corpus=text):
                     syls_2.append(word[0].lower())
                     continue
     # Put it all together
-    return('How do you measure? Measure a year?\n' +
-           'In ' + syls_2[0] + ',\n' +
-           'In ' + syls_2[1] + ',\n' +
-           'In ' + syls_2[2] + ',\n' +
-           'In ' + syls_1[0] + ' of ' + syls_2[3] + '.\n\n' +
-           'In ' + syls_2[4] + ', in ' + syls_1[1] + ', in ' + syls_2[5] + ', in ' + syls_1[2] + '.')
+    return syls_1, syls_2
+
+
+def generate_lyrics():
+    rand_syls_1 = random.choices(syls_1, k=3)
+    rand_syls_2 = random.choices(syls_2, k=5)
+    rand_of_syls_2 = random.choice(of_syls_2)
+    return ('How do you measure? Measure a year?\n' +
+            'In ' + rand_syls_2[0] + ',\n' +
+            'In ' + rand_syls_2[1] + ',\n' +
+            'In ' + rand_syls_2[2] + ',\n' +
+            'In ' + rand_syls_1[0] + ' of ' + rand_of_syls_2 + '.\n\n' +
+            'In ' + rand_syls_2[3] + ', in ' + rand_syls_1[1] + ', in ' +
+            rand_syls_2[4] + ', in ' + rand_syls_1[2] + '.')

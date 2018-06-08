@@ -1,6 +1,6 @@
 import tweepy
 from time import sleep
-import generate_text
+from generate_lyrics import generate_lyrics
 from tokens import *
 
 class TweetBot:
@@ -12,7 +12,7 @@ class TweetBot:
         self.api = tweepy.API(auth)
 
     def tweet(self):
-        message = generate_text.generate_lyrics()
+        message = generate_lyrics()
         try:
             self.api.update_status(message)
         except tweepy.TweepError as error:
