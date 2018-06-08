@@ -2,6 +2,7 @@ import nltk
 import string
 import random
 
+nltk.download('cmudict')
 cmu = nltk.corpus.cmudict.dict()
 
 

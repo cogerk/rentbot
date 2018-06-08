@@ -3,6 +3,7 @@ from time import sleep
 from generate_lyrics import generate_lyrics
 from tokens import *
 
+
 class TweetBot:
     def __init__(self):
 
