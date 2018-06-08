@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/.name
 tokens.py
+__pycache__/
+generate_text.py
