@@ -3,6 +3,8 @@ import string
 import random
 
 nltk.download('cmudict')
+nltk.download('webtext')
+nltk.download('gutenberg')
 cmu = nltk.corpus.cmudict.dict()
 
 
