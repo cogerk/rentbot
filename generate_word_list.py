@@ -8,6 +8,7 @@ nltk.download('webtext')
 nltk.download('gutenberg')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+print('test body')
 
 cmu = nltk.corpus.cmudict.dict()
 

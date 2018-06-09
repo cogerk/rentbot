@@ -13,6 +13,7 @@ class TweetBot:
         self.api = tweepy.API(auth)
 
     def tweet(self):
+        print('tweeting')
         message = generate_lyrics()
         try:
             self.api.update_status(message)
@@ -30,4 +31,5 @@ def main():
     bot.automate(3600)
 
 if __name__ == "__main__":
+    print('testmain')
     main()
