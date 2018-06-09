@@ -6,10 +6,6 @@ import random
 nltk.download('cmudict')
 nltk.download('webtext')
 nltk.download('gutenberg')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-
-
 cmu = nltk.corpus.cmudict.dict()
 
 
@@ -34,6 +30,7 @@ def find_after_in(corpus, corpus_list):
     :return:
     """
     # Find words after in
+    corpus_list =eval(corpus_list)
     corpus_words = corpus_list.words(corpus)
     # Make bigrams (a list of two consecutive words)
     bigrams = [b for b in zip(corpus_words[:-1], corpus_words[1:])]
@@ -62,7 +59,7 @@ def find_after_in(corpus, corpus_list):
             after_in_syls_2.append(x)
 
     # Blank of Blank needs a two syllable noun noun
-    corpus_sents = corpus_list.sents(corpus)
+    corpus_sents =  corpus_list.sents(corpus)
     after_of_syls_2 = []
     for sent in corpus_sents:
         parsed_sent = nltk.pos_tag(sent)
@@ -72,23 +69,40 @@ def find_after_in(corpus, corpus_list):
 
     return after_in_syls_1, after_in_syls_2, after_of_syls_2
 
-# Corpuses to search
-text_files = ['wine.txt', 'overheard.txt', 'singles.txt']
-print('test body')
-# for each file, concatenate lists of 1 syl. & 2 syl. words following in as well as list of nouns
-syls_1 = []
-syls_2 = []
-of_syls_2 = []
-for file in text_files:
-    words = find_after_in(corpus=file, corpus_list=nltk.corpus.webtext)
-    syls_1 = list(set(syls_1 + words[0]))
-    syls_2 = list(set(syls_2 + words[1]))
-    of_syls_2 = list(set(of_syls_2 + words[2]))
-print('test body2')
-# Not quite enough  1 syl. & 2 syl. words, so we'll supplement a few more corpuses
-words1 = find_after_in(corpus='bible-kjv.txt', corpus_list=nltk.corpus.gutenberg)
-print('test body3')
-words2 = find_after_in(corpus='carroll-alice.txt', corpus_list=nltk.corpus.gutenberg)
-print('test body4')
-syls_1 = list(set(syls_1 + random.choices(words1[0], k=50) + words2[0]))
-syls_2 = list(set(syls_2 + random.choices(words2[1], k=40) + words2[1]))
+
+# Not using this function
+def generate_words_grammar(corpus='wine.txt'):
+    """
+    Generates words based based on grammar parsing
+    :param corpus: the text to pull from
+    :return:
+    """
+    syls_1 = []
+    syls_2 = []
+    # Loop until we have 3 1 syllable words and 6 two syllable words
+    while len(syls_2) < 6 or len(syls_1) < 3:
+        # Pick a random sentence from the text and detect verbs, nouns etc.
+        corpus_sents = nltk.corpus.webtext.sents(corpus)
+        my_sent = random.choice(corpus_sents)
+        parsed_sent = nltk.pos_tag(my_sent)
+        for word in parsed_sent:
+            # If noun, verb, determinant, not 'the' and more than 1 character long...
+            if word[1] in ['NN', 'NNS', 'VBG', 'DT', 'RBD'] and word[0].lower() != 'the' and len(word[0]) > 1 \
+                    and '*' not in word[0]:
+                # Check the number of syllables, if 1 or 2 syllables, add to the list
+                if len(syls_1) < 3 and count_syllables(word[0]) == 1:
+                    # First 1 syllable word should not be a determinant, it sounds weird.
+                    if len(syls_1) == 0 and word[1] is not 'DT':
+                        syls_1.append(word[0].lower())
+                        continue
+                    syls_1.append(word[0].lower())
+                    continue
+                elif len(syls_2) < 6 and count_syllables(word[0]) == 2:
+                    # Last 2 syllable word should be a noun (better mirrors "In cups of coffee")
+                    if len(syls_2) == 5 and word[1] in ['NN', 'NNS']:
+                        syls_2.append(word[0].lower())
+                        continue
+                    syls_2.append(word[0].lower())
+                    continue
+    # Put it all together
+    return syls_1, syls_2
