@@ -5,6 +5,8 @@ import random
 nltk.download('cmudict')
 nltk.download('webtext')
 nltk.download('gutenberg')
+nltk.download('punkt')
+
 cmu = nltk.corpus.cmudict.dict()
 
 
