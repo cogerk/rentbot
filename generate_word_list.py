@@ -2,10 +2,12 @@ import nltk
 import string
 import random
 
+# Download relevant corpuses
 nltk.download('cmudict')
 nltk.download('webtext')
 nltk.download('gutenberg')
 nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 cmu = nltk.corpus.cmudict.dict()
 
