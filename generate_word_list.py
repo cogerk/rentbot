@@ -8,7 +8,7 @@ nltk.download('webtext')
 nltk.download('gutenberg')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
-print('test body')
+
 
 cmu = nltk.corpus.cmudict.dict()
 
@@ -85,10 +85,10 @@ for file in text_files:
     syls_2 = list(set(syls_2 + words[1]))
     of_syls_2 = list(set(of_syls_2 + words[2]))
 
-
+print('test body')
 # Not quite enough  1 syl. & 2 syl. words, so we'll supplement a few more corpuses
 words1 = find_after_in(corpus='bible-kjv.txt', corpus_list=nltk.corpus.gutenberg)
 words2 = find_after_in(corpus='carroll-alice.txt', corpus_list=nltk.corpus.gutenberg)
-
+print('test body2')
 syls_1 = list(set(syls_1 + random.choices(words1[0], k=50) + words2[0]))
 syls_2 = list(set(syls_2 + random.choices(words2[1], k=40) + words2[1]))
