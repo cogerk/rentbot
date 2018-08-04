@@ -1,0 +1,471 @@
+This Is What Happens After a Neighborhood Gets Gentrified
+
+The Atlantic
+
+Richard Florida
+
+Back in 2014, Spike Lee famously expressed his disdain for the forces of gentrification in New York: “Why does it take an influx of white New Yorkers in the south Bronx, in Harlem, in Bed Stuy, in Crown Heights for the facilities to get better?” he argued. “What about the people who are renting? They can’t afford it anymore!” Lee’s criticisms reflect a now-familiar narrative in cities all over the U.S.: As wealthier residents flow back into once-low-income, often minority neighborhoods, longtime residents can be priced out.
+
+But exactly how does this dynamic play out, and is displacement inevitable? A new comprehensive review of what we know about gentrification sheds much-needed light on this heated issue. The review, by researchers at the University of California Berkeley and UCLA and published by the Federal Reserve of San Francisco, takes a close look at studies of gentrification and displacement conducted over the past several decades. (I wrote about the review’s insights on how public investment shapes gentrification last week). It helps us better understand several questions related to gentrification and displacement: Just how extensive is displacement, exactly what kinds of people are displaced, and how do people and groups fare after they leave gentrifying neighborhoods?
+
+The earliest studies of displacement conducted in the 1980s generated widely varying estimates of how many people are displaced by gentrification. A 1982 study found that roughly 1 percent of all Americans, 5 percent of families, and 8.5 percent of urban families were displaced from their homes between 1970 and 1977 by either eviction, public action, sale or reoccupation, or the changing state of their neighborhood. A 1983 study of five cities (Boston, Cincinnati, Richmond, Seattle, and Denver) found that nearly a quarter (23 percent) of residents in these urban neighborhoods were displaced due to eviction, increased rent, or the fact that the house they were renting was sold between 1978 and 1980. Similarly, a 2001 study of gentrifying areas of Boston by Jacob Vigdor found evidence of heightened housing turnover in gentrifying neighborhoods.
+
+Perhaps the foremost student of gentrification and displacement is Lance Freeman of Columbia University. His 2004 study with Frank Braconi found that poor households in gentrifying neighborhoods of New York City were less likely to move than poor households in non-gentrifying neighborhoods. This of course may have to do with the fact that there are fewer poor households in gentrifying neighborhoods to begin with. Still, the authors concluded that “a neighborhood could go from a 30% poverty population to 12% in as few as 10 years without any displacement whatsoever.” In a subsequent 2005 study, Freeman found that the probability that a household would be displaced in a gentrifying neighborhood was a mere 1.3 percent. A follow-up 2007 study, again with Braconi, examined apartment turnover in New York City neighborhoods and found that the probability of displacement declined as the rate of rent inflation increased in a neighborhood. Disadvantaged households in gentrifying neighborhoods were actually 15 percent less likely to move than those in non-gentrifying households.
+
+And, in a 2009 study, Freeman found that gentrifying neighborhoods are becoming more racially diverse by tracking neighborhood change from 1970 to 2000 (although he does note that cities overall are becoming more diverse as well). Freeman also discovered that changes in educational diversity were the same for both gentrifying and non-gentrifying areas. Ultimately, while some residents were displaced from 1970 to 2000, gentrifying neighborhoods were generally more diverse when it came to income, race, and education as opposed to non-gentrifying neighborhoods.
+
+Counterintuitively, several studies have even found that gentrification can in some cases reduce displacement. Neighborhood improvements like bars, restaurants, waterfronts, or extended transit can and sometimes do encourage less advantaged households to stay put in the face of gentrification. A 2006 study found that displacement accounted for only 6 to 10 percent of all moves in New York City due to housing expenses, landlord harassment, or displacement by private action (e.g. condo conversion) between 1989 and 2002. A 2011 study concluded that neighborhood income gains did not significantly predict household exit rates. What did predict out-migration was age, minority status, selective entry and exit, and renting as opposed to buying.
+
+A 2010 study on “Who Gentrifies Low-Income Neighborhoods” found that the impact of gentrification on black residents varies based on level of education. By examining around 15,000 census tracts in 64 metros from 1990 to 2000, the authors found that gentrification tends to benefit highly educated black households. In fact, one-third of the increase in income among gentrifying neighborhoods during this period came from the progress of this specific demographic. This in turn causes gentrifying neighborhoods to be more attractive to middle-class black households. But gentrification can also have a negative effect on less educated black households, by pushing those who did not complete high school out of gentrifying neighborhoods.
+
+That said, displacement can be and is a big issue in places where gentrification is occurring at a feverish pace. In her coverage of related research by the UC Berkeley Urban Displacement Project, my CityLab colleague Tanvi Misra points to the strong link between gentrification and displacement in a high-gentrification city like San Francisco. Over a quarter of San Francisco’s neighborhoods (422 of the nearly 1,600 surveyed) are at risk of displacement. The study’s lead author, Karen Chapple, writes that by 2030, San Francisco, Oakland, “and many other Bay Area communities may realize that their neighborhood has turned the corner from displacement risk to reality.”
+
+Indeed, displacement is becoming a larger issue in knowledge hubs and superstar cities, where the pressure for urban living is accelerating. These particular cities attract new businesses, highly skilled workers, major developers, and large corporations, all of which drive up both the demand for and cost of housing. As a result, local residents—and neighborhood renters in particular—may feel pressured to move to more affordable locations.
+
+A temporary wall in front of row houses in the Harlem neighborhood of New York City. (Chris Hondros AFP/Getty)
+A 2013 Cleveland Fed study found that extensive gentrification is the province of a limited group of large superstar cities and knowledge hubs like New York, San Francisco, Seattle, Boston, and Washington D.C. In three-quarters of America’s 55 largest cities, less than 10 percent of all neighborhoods experienced gentrification from 2000 to 2007, and gentrification affected 5 percent or less of a total of 22 neighborhoods. Not surprisingly, these cities are the ones being hit hardest by displacement. And with real estate prices in these cities surging toward all-time highs, there is reason to believe that displacement may worsen over time.
+
+Of course, an even bigger issue is the neighborhoods that are untouched by gentrification and where concentrated poverty persists and deepens. A 2014 study found that for every gentrified neighborhood across 51 U.S. metro areas, 10 others remained poor and 12 formerly stable neighborhoods fell into concentrated disadvantage. A Harvard study of Chicago found that the gentrification process continues for neighborhoods with over 35 percent of white residents, and either slows or stops if the neighborhood is 40 percent black. The reality is that the displaced are getting pushed out of working-class neighborhoods that are “good enough” to attract people and investment, while the poorest and most vulnerable neighborhoods remain mired in persistent poverty and concentrated disadvantage.
+
+
+Gentrification and displacement, then, are symptoms of the scarcity of quality urbanism. The driving force behind both is the far larger process of spiky reurbanization—itself propelled by large-scale public and private investment in everything from transit, schools, and parks to private research institutions and housing redevelopment.
+
+All of which points to the biggest, most crucial task ahead: creating more inclusive cities and neighborhoods that can meet the needs of all urbanites.
+
+---
+
+The Myth of Gentrification
+
+Slate
+
+John Buntin
+
+It started in Soho, then moved to Chelsea and the East Village. Riots in Tompkins Square in 1988 earned it some headlines but didn’t stop its creeping advance. It moved on to lower Harlem, then jumped the river to Park Slope. Williamsburg and Fort Greene followed; today, it threatens even Bedford-Stuyvesant. New York isn’t the only city where it spreads. San Francisco, Washington, and Boston have arguably been even more affected by it. Seattle, Atlanta, and Chicago have experienced it on a large scale, too.
+
+The “it,” as you may have guessed, is gentrification. If you live in one of these cities, you probably think you know how it works. Artists, bohemians, and gay couples come first. They move into run-down—but charming and historic—homes and loft spaces close to the urban core. Houses are restored. Funky coffee shops appear. Public safety improves. Then rents and home prices start to go up. The open-minded, diversity-loving creative types who were the first wave of gentrifiers give way to lawyers, bankers, and techies. As rents and home prices continue to rise, the earlier residents—often lower-income people of color—are forced out.
+
+That’s the story, at least. Read the Atlantic’s City Lab, and you regularly encounter titles such as “Why Gentrification Is So Hard to Stop” and “There’s Basically No Way Not to Be a Gentrifier.” Liberals and conservatives alike agree that it is bad (although liberals blame developers, and conservatives blame onerous regulations that limit development). Even Jezebel has joined in. It recently chided Taylor Swift (who earlier this year traded her comparatively affordable $2 million apartment in Nashville for a $20 million penthouse in Tribeca) for including an “obtuse” “gentrification anthem” in her latest album.
+
+Economists found no evidence that poor people moved out of gentrifying neighborhoods at a higher than normal rate.
+
+That gentrification displaces poor people of color by well-off white people is a claim so commonplace that most people accept it as a widespread fact of urban life. It’s not. Gentrification of this sort is actually exceedingly rare. The socio-economic status of most neighborhoods is strikingly stable over time. When the ethnic compositions of low-income black neighborhoods do change, it’s typically because Latinos and other immigrants move into a neighborhood—and such in-migration is probably more beneficial than harmful. As for displacement—the most objectionable feature of gentrification—there’s actually very little evidence it happens. In fact, so-called gentrifying neighborhoods appear to experience less displacement than nongentrifying neighborhoods.
+
+It’s time to retire the term gentrification altogether. Fourteen years ago, Maureen Kennedy and Paul Leonard of the Brookings Institution wrote that gentrification “is a politically loaded concept that generally has not been useful in resolving growth and community change debates because its meaning is unclear.” That’s even truer today. Some U.S. cities do have serious affordability problems, but they’re not the problems critics of gentrification think they are. Worse, the media focus on gentrification has obscured problems that actually are serious: the increasing isolation of poor, minority neighborhoods and the startling spread of extreme poverty.
+
+* * *
+
+Gentrification, as it is commonly understood, is about more than rising housing prices. It’s about neighborhoods changing from lower-income, predominantly black or Latino neighborhoods to high-income, predominantly white neighborhoods. Demographers and sociologists have identified neighborhoods where this kind of displacement has occurred. Wicker Park in Chicago, Harlem and Chelsea in Manhattan, Williamsburg in Brooklyn—these places really did gentrify. Sociologists and demographers captured these changes in case studies and ethnographies. But starting a decade ago, economists began to ask more nuanced questions about the displacement the other social sciences were documenting. Simply documenting that low-income people were being forced out of a neighborhood whose housing prices were rising didn’t mean in and of itself that gentrification was causing displacement, they noted. Poor people often move away from nongentrifying neighborhoods, too. Indeed, low-income people move frequently for a variety of reasons. The real question was whether low-income residents moved away from “gentrifying” neighborhoods at a higher rate than they did from nongentrifying neighborhoods.
+
+Fans watch as Solange performs during the 2013 Northside Festival at McCarren Park.
+
+One of the first people to explore this question in a sophisticated way was University of Washington economist Jacob Vigdor. In 2002, Vigdor examined what had happened in Boston between 1974 and 1997, a period of supposedly intense gentrification. But Vigdor found no evidence that poor people moved out of gentrifying neighborhoods at a higher than normal rate. In fact, rates of departure from gentrifying neighborhoods were actually lower.
+
+It wasn’t just Boston. In 2004, Columbia University economists Lance Freeman and Frank Braconi conducted a similar study of gentrification in New York City in the 1990s. They too found that low-income residents of “gentrifying” neighborhoods were less likely to move out of the neighborhood than low-income residents of neighborhoods that had none of the typical hallmarks of gentrification.
+
+Of course, displacement is not the only way in which gentrification could harm the poor. Residents of gentrifying neighborhoods might stay put but suffer from rising rents. Freeman and Braconi found that rents did rise in gentrifying neighborhoods in New York. But rising rents had an unexpected effect: As rents rose, residents moved less.
+
+
+ “The most plausible interpretation,” the authors concluded, “may be the simplest: As neighborhoods gentrify, they also improve in many ways that may be as appreciated by their disadvantaged residents as by their more affluent ones.”
+
+In 2010, University of Colorado–Boulder economist Terra McKinnish, along with Randall Walsh and Kirk White, examined gentrification across the nation as a whole over the course of the 1990s. McKinnish and her colleagues found that gentrification created neighborhoods that were attractive to minority households, particularly households with children or elderly homeowners. They found no evidence of displacement or harm. While most of the income gains in these neighborhoods went to white college graduates under the age of 40 (the archetypical gentrifiers), black high school graduates also saw their incomes rise. They also were more likely to stay put. In short, black households with high school degrees seemed to benefit from gentrification.
+
+A man walks in Williamsburg, Brooklyn, in September 2010.
+
+McKinnish, White, and Walsh aren’t the only researchers whose work suggests that blacks often benefit from gentrification. In his book, Stuck in Place: Urban Neighborhoods and the End of Progress Toward Racial Equality, sociologist Patrick Sharkey took a close look at black neighborhoods that saw significant changes to their ethnic composition between 1970 and 1990. He found that when the composition of black neighborhoods changed, it wasn’t because whites moved in. That rarely happens. For black communities, neighborhood change happens when Latinos begin to arrive. Sometimes these changes can be difficult, resulting as they often do in new political leaders and changes to the character of the communities. But Sharkey’s research suggests they also bring real benefits. Black residents, particularly black youth, living in more diverse neighborhoods find significantly better jobs than peers with the same skill sets who live in less diverse neighborhoods. In short, writes Sharkey, “There is strong evidence that when neighborhood disadvantage declines, the economic fortunes of black youth improve, and improve rather substantially.”
+
+In other words, the problem isn’t so much that gentrification hurts black neighborhoods; it’s that it too often bypasses them. Harvard sociologists Robert Sampson and Jackelyn Hwang have shown that neighborhoods that are more than 40 percent black gentrify much more slowly than other neighborhoods. The apparent unwillingness of other ethnic groups to move into and invest in predominantly black communities in turn perpetuates segregation and inequality in American society.
+
+The problem isn’t so much that gentrification hurts black neighborhoods; it’s that it too often bypasses them.
+
+While critics of gentrification decry a process that is largely imaginary, they’ve missed a far more serious problem—the spread of extreme poverty. Last year, economists Joseph Cortright of the Portland, Oregon–based Impresa Consulting and Dillon Mahmoudi of Portland State University set out to examine how America’s poorest urban neighborhoods had changed over time. They started by going back to 1970 and identifying 1,100 census tracts—the county subregions that demographers use as a basic unit of analysis—located within 10 miles of the central business districts in the 51 largest cities with high levels of poverty. They then asked a simple question: How did the socio-economic status of these places change during the next 40 years?
+
+The answer: Most had not. Two-thirds of high-poverty neighborhoods in 1970 were still high-poverty neighborhoods in 2010. Only about 100 neighborhoods saw their poverty rates decline to below the national average. The typical metropolitan area had one or two high-poverty neighborhoods that could conceivably be described as gentrifying. However, Cortright and Mahmoudi did find another, more significant change. Whereas in 1970, 1,100 census tracts within 10 miles of central business districts had poverty rates of 30 percent or higher, by 2010, the number of poor census tracts had jumped to 3,100. In other words, the number of high-poverty areas close to central business districts had nearly tripled. To make matters worse, the number of people living in extreme poverty in those areas had doubled. The residents of these neighborhoods are disproportionately black.
+
+* * *
+
+If gentrification occurs so infrequently—and if it may help rather than hurt existing residents—why are so many people so upset about it? There are at least a couple of reasons. The first has to do with where it happens. According to Cortright and Mahmoudi, just three cities—New York, Chicago, and Washington—accounted for one-third of all census tracts that saw poverty rates decline from above 30 percent in 1970 to below 15 percent in 2010. Half of all the areas in the nation that “gentrified” (if we still want to call it that) were located in those three cities. No wonder New Yorkers and Washingtonians think gentrification is a big deal.
+
+People at a park in Brooklyn during the summer of 2011.
+
+The other reason we continue to talk about gentrification probably has more to do with middle-class fears. Housing prices in America’s most expensive coastal cities have risen sharply since the end of the Great Depression. Expressing concern about “gentrification” in those cities may simply be another way of expressing concern about rising housing prices. But in fact, different types of cities have very different kinds of affordability problems. In coastal cities, the cost of housing is often far higher than the cost of construction. That is primarily because supply is constrained. Builders in Washington can’t turn Adams Morgan’s row houses into a high-rise apartment district, so row house prices rise. High demand plays a role too, of course. Some of that demand reflects a preference for older, close-in housing stock. The fact that global cities deliver high wages to the most skilled workers is almost certainly more important though. Gentrification isn’t the cause of these cities’ affordable housing problem. It’s a symptom.
+
+There’s a large group of cities with a very different affordability problem. These are Rust Belt cities such as Detroit where housing sells at or below the cost of construction. These are cities with an income problem. Cities where the cost of housing is far higher than the cost of construction require different policy solutions than cities where the situation is reversed. Coastal cities can benefit from requirements that developers set aside a portion of new units as affordable housing, although some economists argue that such zoning requirements can actually backfire by raising the cost of new housing even more, and all agree that the effect of such set-asides will be minimal. It certainly won’t reverse the transformation of these cities into enclaves for the rich.
+---
+
+Doing Something Real About Gentrification and Displacement
+
+The Stanger
+
+Dan Savage
+
+The only thing worse than listening to suburbanites bitch about being stuck in traffic? Listening to local politicians pretend they can actually do something to Make Commutes Great Fast Again.
+
+Way, way back in the '50s and '60s, people got it into their heads that they had a constitutional right to live in the suburbs and drive in or through the center of a city—to jobs, to stores, to stadiums, to hookers, to suburbs on the other side of the city—going seventy miles an hour. Our local politicians can't bring themselves to tell these entitled shits the truth: It's never going to be the 1960s around here again, when expressways were expressways, not parking lots. We can't build our way out of this. We can only build alternatives to cars, aka mass transit. (Preferably rapid transit, which is grade-separated transit. Without taking lanes away from cars, which we aren't going to do, BRT is not rapid transit. It's an oxymoron.) Mayors and city council members and county council members in cities with with functioning mass transit systems don't have to make serious faces and reassure entitled drivers that they're gonna do something to speed up their commutes.
+
+This is how a conversation between an elected official and an entitled suburbanite might go in New York or Chicago:
+
+"My commute is awful! I sit in traffic for hours!"
+
+"Then take the train."
+
+"I don't want take the train."
+
+"Then sit in traffic, asshole."
+
+Sit in traffic or take rapid transit: those are your options, when you live, work, or play in or near a big, thriving urban center with a functional rapid transit system. New York, Chicago, Portland, D.C., London, Paris, Vienna. Complain about your commute and you'll be told to pick one: traffic (that you and your car help create) or transit (that you and your taxes help subsidize). Politicians in cities with functional (that's functional, not perfect) mass transit systems—where they still spend a lot of money maintaining roads—don't have to waste billions of dollars on bullshit tunnels supposedly designed to "preserve capacity" but really intended to assuage the irrational anger of entitled drivers whose votes they need.
+
+And now, a song...
+
+
+Urbanites complaining about gentrification have a lot in common with suburbanites complaining about commutes.
+
+Backing way the hell up: At roughly same time suburbanites got it into their heads that they're entitled to drive through the center of the city at 70 MPH, urbanites got it into their heads that the center of the city is cheapest place to live. ("Downtown, where the folks are broke!") And for a while the center of the city was the cheapest place to live. But that's no longer the case. Before we get to why downtown and inner-city neighborhoods are no longer the cheapest places to live, let's pause to reflect on what made them the cheapest place to live for a good/depressing chunk of the 20th Century.
+
+Downtown, the city center, close-in neighborhoods—for decades residential and commercial rents were low and you could find a giant loft space where you could make art (or drink about making art) or a cheap storefront where you could start a theater or a bar or a cult. But this was an historical anomaly driven by two things lefties hate: racism and the automobile. Shitty people abandoned the city: racist whites fled the city and expressways and cars made it possible for urbanophobes to exploit everything a city had to offer without having to actually live (and pay taxes) in the city. Once upon a time urbanites regarded this as a crisis. Today we rarely acknowledge the two social forces that made city centers the most affordable places to live: the evils of racism and the catastrophe of the automobile—hate, fear, and the internal combustion engine.
+
+That was then. This is now:
+
+We are in the middle of a once in a lifetime tectonic shift in consumer preferences regarding urban living. Throughout much of the 20th century, American households reported a preference for suburban living. Not everyone was able to afford to move to the suburbs (and many were racially excluded) but even central city residents commonly told survey researchers that they would rather be living in the suburbs. The result was that, as people sorted within regions, the people with the most economic (and racial) power chose the most desirable locations (at the edges) while the less powerful were left with the less desirable center. There has been a shift, and now a growing share of the powerful prefer the center.
+
+People are choosing to move back into the city. We can't build a wall around our city, we can't keep people out, and we haven't built enough housing to accommodate demand. Scarcity is driving up the value of the housing stock that already exists and people are being priced out and displaced:
+
+The population of a region is largely determined by the number of jobs available. When we add jobs, we create new demand for housing. If we build housing at the same rate that we create jobs, housing prices remain relatively constant. When we occasionally build more housing than we need, prices fall, and when we build too little housing, prices rise. Across the country we have been systematically building too little housing for a very long time now and high housing prices and rents are the utterly predictable result.
+
+1495470672_tmp_displacementisreal.jpg
+Housing scarcity—exacerbated by the ridiculous amount of this city zoned for single-family housing—deserves as much blame for the displacement crisis as gentrification. More. And unlike gentrification ("a once in a lifetime tectonic shift in consumer preferences"), scarcity and single-family zoning are two things we can actually do something about. Rezone huge swaths of the city. Build more units of affordable housing, borrow the social housing model discussed in the Rick Jacobus' piece I quote from above ("Why We Must Build"), do away with parking requirements, and—yes—let developers develop. (This is the point where someone jumps into comments to point out that I live in a big house on Capitol Hill. It's true! And my house is worth a lot of money—a lot more than what we paid for it a dozen years ago. But the value of my house is tied to its scarcity. Want to cut the value of my property in half? Great! Join me in calling for a radical rezone of all of Capitol Hill—every single block—for multi-family housing, apartment blocks and towers. That'll show me!)
+
+We're electing a new mayor and a few new city and county council members this fall. So we're gonna be hearing from politicians pretending they can do something about something they can't really do anything about. (The pandering has already begun.) Like politicians telling suburbanites they're gonna do something to shorten their commutes, they're telling urbanites they're gonna do something to halt gentrification. Not because they can, but because they need the votes of people who are angry about gentrification and displacement. (In some cases angry and complicit. If I meet one more anti-gentrification activist who moved to Seattle ten minutes ago, I shall scream.)
+
+I'm going to contradict myself now because what are the odds anyone is still reading this screed?
+
+There actually is something we can do about gentrification and displacement. We can't stop it. Snark can't halt tectonic shifts. The thing we can do? It's the same thing we can do about about traffic: build a truly regional, truly rapid transit system. A comprehensive regional rapid transit system will make displacement—being forced to move from one neighborhood to another by economic forces beyond the control of our local elected officials—less devastating and less isolating for those who will inevitably be impacted.
+
+Enough with the snarky posters, enough with the inane, masturbatory, self-congratulatory stunts, enough with the attacks on a single pot shop. Let's stop wasting time and political energy demanding something that local elected officials can't do—stop gentrification—and instead demand some things they can do, things that would actually mitigate some of the harms of gentrification and displacement. Things like...
+
+• Build out our fixed-rail rapid transit system as quickly as possible. We've just passed ST3. More fixed-rail, rapid-transit lines are coming. But it's going to take 20+ years to build out and it looks like we're going to have to fight a never-ending rearguard action to protect the plan we approved. (How dare these assholes call themselves Democrats.) Fast-track whatever can be fast-tracked.
+
+• Immediately create true BRT lines along the coming light rail lines and beyond—and take roads away from cars to do it. Reserve those routes for buses. Will that make driving through the city harder? Sure it will. And good. Drivers will want light rail completed just as quickly as rail commuters and it'll create an incentive for drivers to leave their cars at home and take the bus instead. And people who've been forced out of the center of the city and into the suburbs won't have to wait 20 years or longer for rapid transit to reach them.
+
+• Massive subsidies for riders of mass transit. Demand an annual pass that costs $365 dollars for unlimited rides. And a $40 monthly pass. As more people are pushed out of the center of the city by changing preferences/tectonic shifts, more people will be relying on transit to get to jobs, schools, doctors, recreation, etc. Subsidize transit to bring down the costs of commuting for all. A citation for "karmic infraction" may put a smile on the face someone being displaced—or on the face of the person who displaced them—but cheaper, subsidized transit would actually do something much useful: it would put money in displaced people's pockets—the pockets of people who have already been displaced—and help them get where they need to go.
+
+People are choosing to move back into the cities. We can't restrict free choice, freedom of movement, build a wall around the city, or declare certain sections of the city off-limits to newcomers. We can build more units of affordable housing (which we're doing), adopt that social housing model Jacobus writes about (which sounds like what Capitol Hill Housing already does, but let's scale it way the fuck up), and we should take steps to prevent the housing market from being distorted by speculators and people parking their money in real estate (which they're doing in Vancouver and we need to do here). But there's only so much we can do. People are going to be displaced. We can shake our fists and put up posters—and refuse to make any actionable demands—but that's not going to change anything or help anyone. Snark and pranks masquerading as activism aren't going stop people from moving back into the cities. It's time to do something that might actually make a difference.
+
+Traffic and displacement—two different, if intertwined problems. One solution: rapid transit.
+
+---
+
+The gentrification of death: in New York eternal rest will soon be a luxury
+For two centuries, New York’s cemeteries have promised a peaceful and picturesque hereafter. But space is now scarce – and increasingly expensive.
+The Guardian
+
+Devin Kelly
+n 1825, Jacob Bigelow, a doctor and botanist in Boston, Massachusetts, noticed that the many small church graveyards throughout the city were becoming overcrowded. A prescient man, Bigelow concocted a plan for a new cemetery on the outskirts of the city; one carpeted in flowers and designed to preserve natural beauty. After years of planning and lobbying wary townspeople, Mount Auburn Cemetery was founded in 1831, and Boston’s mourners began packing picnic baskets and taking carriages out to the country to be with their recently deceased.
+ 
+Trees tower and curve and throw long spiralling shadows over tombs and headstones. It is redolent of wealth
+Though Mount Auburn owed a debt to European cemeteries built with similar intent, it was the first of its kind in the US, and soon a rural and garden cemetery movement took hold. Green-Wood Cemetery was founded in New York City in 1838, and in 1847, New York state passed the Rural Cemetery Act, which allowed churches and other entities to buy up tax-exempt land. Soon, New York City – and Queens especially, where more than double the number of people who live above ground are buried below it – was home to many sprawling cemeteries. The Evergreens. Cypress Hills. Calvary. The names go on.
+I spent a few hours touring the grounds of Green-Wood with Jeff Richman, the cemetery’s historian. The space is beautiful. Trees tower and curve and throw long spiralling shadows over tombs and headstones. It is redolent of wealth.Long-dead New Yorkers plotted an eternal rest in which they intended to occupy the same kind of space they demanded in life. Tombs became like houses, with wrought-iron fences and benches set in small gardens. Death for New York’s richest came at a high price – in terms of both money and space.
+
+At the time, it might not have seemed like a problem. Walt Whitman, reporting for the Brooklyn Daily Eagle, toured Green-Wood and remarked on its beauty. “But how sweet and peaceful will be their slumbers!” he wrote, “How calmly will they rest in their silent mansions, till the night, the moonless night of death is passed.”
+During the tour, we passed Lot 44606, a benign stretch of ground dotted with burial markers. But, if you looked closer, you could see there used to be a road where these grave markers now stood. It looked too planned, like a new concrete condo in Brooklyn on a block of old brownstones.
+In a 2009 New York Times article, the cemetery’s researcher Kestutis Demereckas told writer Michael Wilson how he found space for new graves at Green-Wood. After covering various old paths or roads with new bodies, he laboured over old maps, trying to find small spaces where new plots could be dug. According to the article, the cemetery was going to run out of space any day. Any day is arriving fast.
+ “An eternal rest in which they intended to occupy the same kind of space they demanded in life.” ... A mausoleum at Green-Wood Cemetery. Photograph: Mary Altaffer/AP
+Richman said there was no limit to what the cemetery could do, whether by rearranging the grounds to make space for new arrivals or by talking with developers and trustees to rearrange the cemetery’s vision to cater to new customers. What he did not say was that the cost of a single grave plot in Green-Wood starts at $19,000. Indeed, nearly every cemetery in New York City suffers from the problem of decreasing space for a number of dead thatwill continue to rise relentlessly. Plot prices are rising and in-ground burials at certain cemeteries, such as Trinity Cemetery in Manhattan, are no longer allowed. Some people lucky enough to own plots in New York City are selling them on Craigslist.
+Not long ago, I walked with Vincent Carbone, who owns Carbone Memorials, an independent memorial service in Brooklyn, as he went to check on a job in The Evergreens. In the midst of all this change, tradespeople like Carbone have almost stopped existing, left floundering in the wake of a memorialisation business that has become less centred around independent shops and more concentrated on bigger, cheaper, more efficient corporations. I watched two of his contractors sandblast a decorative set of hearts into a new headstone that nearly touched another headstone. Everywhere I looked, headstones stuck together like kids in line for recess. Somewhere in the distance, the Jackie Robinson Parkway hummed, jutting right up to the cemetery’s expanse.
+ Grave-sites of veterans of the Civil War, American Revolution, Spanish-American War, Korean and Vietnam wars in Cypress Hills Cemetery. Photograph: Craig Ruttle/AP
+Advertisement
+Almost every New Yorker will pass above, beneath, beside or through a cemetery at some point in their given day. We are prepositionally related to the dead. Not just the recent dead, either, and sometimes not even the real dead. When I attended Fordham University, there was a common myth about the on-campus cemetery, which contained just a few dozen graves: that school leaders constructed it to block a highway from being built through the campus, that there were no bodies in it. Like all myths, it felt just odd and right enough to be true.
+ 
+The forgotten, abused, cast-out and neglected bury​​ the forgotten, abused, cast-out and neglected, away from the public eye
+In Soho in 1991, the city approved plans to build a $276m, 30-plus-storey federal building, before it found out that more than 400 bodies sat below it, in an old interment site known centuries ago as Negros Burial Ground. Though the city continued to build the tower, it altered the design and gave the burial ground historical landmark status and, later, a memorial.
+This wasn’t, and isn’t, a new problem for the city. Famous sites such as Washington Square Park, where many believe up to 20,000 people still lie buried in a potter’s field beneath its arch, and the Brooklyn Navy Yard all sit on old burial sites of poor, marginalised or disenfranchised groups.
+ Calvary Cemetery in Queens. Plots in many of New York’s cemeteries are increasingly rare – and expensive. Photograph: Alamy
+And then, perhaps most eerily present, there is Hart Island, the small, barren plot of land viewable from City Island in the Bronx. Here, Riker’s Island inmates are paid 50 cents an hour to bury the city’s poor and unclaimed dead in trenches, not plots. Babies, fathers and mothers alike. Out there in the Long Island Sound, away from the city’s view, inmates dig mass graves for people most people will never know lived. The forgotten, abused, cast-out and neglected bury the forgotten, abused, cast-out and neglected, away from the public eye. As if to add punishment to poverty, Hart Island cannot be accessed in the same way as a regular city cemetery. If, for example, a son wanted to visit his long-lost mother, who died in New York City, whose body went unclaimed, made an extended stay at a morgue, was operated on at a medical school and then found its way to Hart Island, that son would have to wait for the once-a-month family visit day. When he finally arrived on the island after a ferry ride, his mother’s grave would be located via a trench number, and that trench shared with over a hundred other bodies.
+ Markers show the location of some of the mass graves on Hart Island. The island has served for 150 years as New York’s burial ground for the poor and nameless. Photograph: Seth Wenig/AP
+I don’t doubt that Jacob Bigelow wanted the best for the people and city he loved, that he wanted to create a space of beauty for people who craved solace. But now, almost two centuries later, the very cemeteries that Bigelow inspired are overcrowded and often overpriced. When I went to Green-Wood, I stood and looked out toward the Statue of Liberty and tried to imagine what used to decorate my field of vision: green hills rolling into the water before disappearing. The day I stood there, the city came right up to the cemetery’s fence, and a group of union workers marched in a circle outside a business, striking for something they needed but weren’t being given.
+When burial space does finally, inevitably run out, the bodies of New Yorkers who are marginalised, poor and disenfranchised – or even simply not rich – will be the ones spending eternity somewhere other than the city in which they lived. There will be no room for them. It will be a kind of gentrification of the dead.
+
+Death in the city: what happens when all our cemeteries are full?
+ 
+When Carbone and I left the cemetery, he pointed at a mausoleum.
+“Trommer,” he said, indicating the family name on the tomb. “He used to own this brewery, straight ahead. It used to be right there.”
+Carbone pointed right in front of us. Now, there was a Popeye’s, a gas station. A block away there was Carbone’s memorial shop, clinging to survival, jammed underneath the rattle of a subway track. The city advances. The living need space, but what of our dead?
+
+---
+
+In praise of gentrification
+The economist
+
+Accusations levelled at gentrification in America lack force, meanwhile its benefits go unsung
+
+GENTRIFIER has surpassed many worthier slurs to become the dirtiest word in American cities. In the popular telling, hordes of well-to-do whites are descending upon poor, minority neighbourhoods that were made to endure decades of discrimination. With their avocado on toast, beard oil and cappuccinos, these people snuff out local culture. As rents rise, lifelong residents are evicted and forced to leave. In this view, the quintessential scene might be one witnessed in Oakland, California, where a miserable-looking homeless encampment rests a mere ten-minute walk from a Whole Foods landscaped with palm trees and bougainvillea, offering chia and flax seed upon entry. An ancient, sinister force lurks behind the overpriced produce. “‘Gentrification’ is but a more pleasing name for white supremacy,” wrote Ta-Nehisi Coates. It is “the interest on enslavement, the interest on Jim Crow, the interest on redlining, compounding across the years.”
+
+This story is better described as an urban myth. The supposed ills of gentrification—which might be more neutrally defined as poorer urban neighbourhoods becoming wealthier—lack rigorous support. The most careful empirical analyses conducted by urban economists have failed to detect a rise in displacement within gentrifying neighbourhoods. Often, they find that poor residents are more likely to stay put if they live in these areas. At the same time, the benefits of gentrification are scarcely considered. Longtime residents reap the rewards of reduced crime and better amenities. Those lucky enough to own their homes come out richer. The left usually bemoans the lack of investment in historically non-white neighbourhoods, white flight from city centres and economic segregation. Yet gentrification straightforwardly reverses each of those regrettable trends.
+
+One in, none out
+
+The anti-gentrification brigades often cite anecdotes from residents forced to move. Yet the data suggest a different story. An influential study by Lance Freeman and Frank Braconi found that poor residents living in New York’s gentrifying neighbourhoods during the 1990s were actually less likely to move than poor residents of non-gentrifying areas. A follow-up study by Mr Freeman, using a nationwide sample, found scant association between gentrification and displacement. A more recent examination found that financially vulnerable residents in Philadelphia—those with low credit scores and no mortgages—are no more likely to move if they live in a gentrifying neighbourhood.
+
+These studies undermine the widely held belief that for every horrid kale-munching millennial moving in, one longtime resident must be chucked out. The surprising result is explained by three underlying trends.
+
+The first is that poor Americans are obliged to move very frequently, regardless of the circumstances of their district, as the Princeton sociologist Matthew Desmond so harrowingly demonstrated in his research on eviction. The second is that poor neighbourhoods have lacked investment for decades, and so have considerable slack in their commercial and residential property markets. A lot of wealthier city dwellers can thus move in without pushing out incumbent residents or businesses. “Given the typical pattern of low-income renter mobility in New York City, a neighbourhood could go from a 30% poverty population to 12% in as few as ten years without any displacement whatsoever,” noted Messrs Freeman and Braconi in their study. Indeed, the number of poor people living in New York’s gentrifying neighbourhoods barely budged from 1990 to 2014, according to a study by New York University’s Furman Centre. Third, city governments often promote affordable-housing schemes, such as rent control or stabilisation, in response to rising rents.
+
+Gentrification has been so thoroughly demonised that a mere discussion of its benefits might seem subversive. That does not make them any less real. Residents of gentrifying neighbourhoods who own their homes have reaped considerable windfalls. One black resident of Logan Circle, a residential district in downtown Washington, bought his home in 1993 for $130,000. He recently sold it for $1.6m. Businesses gain from having more customers, with more to spend. Having new shops, like well-stocked grocery stores, and sources of employment nearby can reduce commuting costs and time. Tax collection surges and so does political clout. Crime, already on the decline in American city centres, seems to fall even further in gentrifying neighbourhoods, as MIT economists observed after Cambridge, Massachusetts, undid its rent-control scheme.
+
+Those who bemoan segregation and gentrification simultaneously risk contradiction. The introduction of affluent, white residents into poor, minority districts boosts racial and economic integration. It can dilute the concentration of poverty—which a mountain of economic and sociological literature has linked to all manner of poor outcomes, including teenage pregnancy, incarceration and early death. Gentrification steers cash into deprived neighbourhoods and brings people into depopulated areas through market forces, all without the necessity of governmental intervention. The Trump administration is unlikely to offer large infusions of cash to dilapidated cities. In these circumstances, arguing against gentrification can amount to insistence that poor neighbourhoods remain poor and that racially segregated neighbourhoods stay cut off.
+
+What, then, accounts for the antipathy towards gentrification? The first reason is financial. Though the process has been going on for a few decades, the increased attention comes in the middle of a broader concern about the cost of housing in American cities. The share of households that are “rent burdened”—those spending more than 30% of pre-tax income on rent—has increased from 32% in 2001 to 38% in 2015. Things are worse among the poor; 52% of those below the federal poverty line spend over half their income on housing. Rents have risen dramatically, though this can be the fault of thoughtless regulations which hinder supply more than the malevolence of gentrifiers. The net creation of jobs has outpaced additional housing in New York City by a rate of two to one. In San Francisco, perhaps the most restricted American metropolitan area, this ratio is eight to one.
+
+A second reason gentrification is disliked is culture. The argument is that the arrival of yuppie professionals sipping kombucha will alter the character of a place in an unseemly way. “Don’t Brooklyn my Detroit” T-shirts are now a common sight in Motor City. In truth, Detroit would do well with a bit more Brooklyn. Across big American cities, for every gentrifying neighbourhood ten remain poor. Opposing gentrification has become a way for people to display their anti-racist bona fides. This leads to the exaggerated equation of gentrification with white supremacy. Such objections parallel those made by white NIMBYs who fret that a new bus stop or apartment complex will bring people who might also alter the culture of their neighbourhood—for the worse.
+
+Porcini progressives
+
+The term gentrification has become tarred. But called by any other name—revitalisation, reinvestment, renaissance—it would smell sweet. Take Shaw, a historical centre of black culture in Washington which limped into the 1970s as a shadow of itself after a series of race riots. Decades of decline followed, in which a crack epidemic caused the murder rate to spike. Today, crime is down. The O Street Market, where one person was killed and eight were injured in a shoot-out in 1994, is now a tranquil grocery store. Luxury flats with angular chairs and oversized espresso machines in the lobby have sprouted opposite liquor stores. An avant-garde speakeasy beckons from the basement beneath a humble doughnut store. At the Columbia Room, a wood-panelled bar with leather chairs, mixologists conjure $16 concoctions of scotch, blackberry shrub and porcini mushrooms. This is how progress tastes.
+
+---
+
+How To Know If Your Neighborhood Is Being Gentrified
+
+A new study of gentrification shows that the addition of a coffee shop or restaurant in your neighborhood could be an early indicator that housing prices are about to spike.
+
+The research also casts some doubt on the often-expressed belief that gentrification can ruin neighborhoods by forcing out existing businesses that serve the needs of the locals.
+
+“We found that changes in the local economy—such as a new coffee shop opening—can predict gentrification,” says Harvard Business School's Michael Luca, Lee J. Styslinger III associate professor of business aAdministration, who coauthored the study. “Our results also suggest that a range of local businesses actually expand during periods of gentrification.”
+
+
+The findings are included in the new paper Nowcasting Gentrification: Using Yelp Data to Quantify Neighborhood Change (pdf), written by Luca, Harvard University Economics Professor Edward L. Glaeser, and HBS doctoral student Hyunjin Kim.
+
+The researchers combined data from U.S. Census reports, the Federal Housing Finance Agency, Google Street View, and Yelp to explore gentrification in New York, Boston, Chicago, Los Angeles, and San Francisco.
+
+Among the findings:
+
+The opening of a Starbucks—and cafes more generally—is a leading indicator of gentrification, and is associated with an increase in local housing prices of .5%.
+Gentrifying neighborhoods tend to spawn a growing number of grocery stores, cafes, restaurants, and bars. But there is a chicken-and-egg question of what ignites that development.
+Although it’s possible some existing shops could be squeezed out by the influx (the report didn’t specifically study that question), the overall trend is that the number of businesses in that area will expand.
+Yelp measures of local business activity, such as prices and user ratings, provide a new way of studying the economy. This data can provide indicators that gentrification is occurring, forecast an increase in housing prices, and shed new light on the evolution of the local economy at the neighborhood level in close to real time.
+Although the study helps identify where gentrification is occurring, it’s unclear what’s causing what. “It could be that people see a Starbucks coming in and say, ‘This is a neighborhood we should move into,’” says Glaeser, an urban economist and author of the book Triumph of the City. “But we think it is more likely that Starbucks has insight into neighborhoods that are going to be expanding.”
+
+Either way, a new Starbucks is a predictor of rising housing prices. “If you want to know if a neighborhood is going to be booming in terms of housing prices, the hip new coffee shop may be a harbinger of things to come,” says Luca.
+
+The study didn’t specifically track the fate of existing shops or services after new businesses started opening in the area, so it’s possible the occasional shop might be crowded out by gentrification. Nevertheless, Kim says, “Demographic changes that are widely seen as measures of gentrification are accompanied by growth in the number of businesses in every category we examined.”
+
+Creating Better Public Policy
+
+Gentrification has swept through some of America’s largest cities, including San Francisco, Manhattan and New Orleans. With it comes familiar arguments both for and against.
+
+Private developers and other supporters argue that new restaurants and retail shops, high-rise housing, and other spruce-ups revitalize communities by attracting outside investment and luring new residents. Critics counter that the improvements come with downsides, starting with the loss of affordable housing and the tearing apart of established communities. The escalation in housing prices often forces the poorest residents to move out, making way for new occupants who are richer—and whiter.
+
+These social pressures often put city planners in the uncomfortable spot of trying to maintain the tricky balance of bolstering economic development without completely killing cultural diversity. Glaeser, Kim and Luca believe their novel approach, which mashes up data from online platforms with more traditional data sets, can drive better public policy by providing a real-time glimpse of changing neighborhoods, allowing policymakers to “forecast” where gentrification might be occurring and measure its effects.
+
+The team has worked closely with cities to explore gentrification, meeting with politicians, policymakers, and chief data officers to discuss their research findings.
+
+The researchers are excited about one particular data source: the online platform Yelp, which runs business listings and reviews written by customers. Unlike traditional Census data, which can take years to develop, Yelp provides a real-time look inside the local economy to see what types of businesses are growing and how a neighborhood is changing.
+
+“You can get Yelp data much more quickly, and the data is more granular,” says Luca. “Yelp will give you a better snapshot of a neighborhood and fill in blanks that Census data doesn’t capture.
+
+To measure business changes, the researchers studied Yelp data between 2007 and 2016. In addition to finding the boost in housing prices with a Starbucks entering a neighborhood, they also found that the growth in the number of Starbucks reviews is even more predictive of neighborhood change: With every 10 extra reviews a business received, housing prices in that zip code increased by 1.4%.
+
+More College-Educated Residents = More Food Options
+
+To compare housing prices with other markers of gentrification, the researchers turned to the Federal Housing Finance Agency in New York City between 2012 and 2016. They studied three demographic measures of neighborhood change: percent of residents with a college degree; percent of residents between 25 and 34 years old; and percent of residents who were white.
+
+Changes in the business landscape were particularly associated with the number of college-educated residents, and less so with the age of residents and racial composition of a neighborhood.
+
+Growth in grocery stores, bars, restaurants, and cafes—especially the pricier places—were good predictors of an uptick in the number of college-educated residents within a particular area.
+
+The opposite also appears true, though—that neighborhoods with less educated, lower-income residents have fewer grocery store and restaurant choices nearby. “These results seem compatible with the literature on ‘food deserts’ that documents how poorer people live in areas with fewer options for healthy food,” the paper says.
+
+The team also examined how local business activity varied with changes in a StreetScore rating, a computer-generated, crowdsourced measure of how people perceive the safety of a street scene captured in Google Street View images. The data, captured from 2007 to 2014, allowed researchers to track the overall physical quality of a neighborhood. Increases in the number of Starbucks and other cafes, vegetarian restaurants, and bars equated with higher StreetScores.
+
+“You have better paint on buildings and better landscaping. It all makes a difference in the StreetScore,” Glaeser says. “And a change in StreetScore is one of the first indications of a neighborhood change.”
+
+In studying several cities, the researchers found many of the same patterns—florists, groceries, and bars seemed to go hand in hand with gentrification. And in New York, the number of laundromats was also related to gentrification.
+
+Luca says online platforms provide an exciting opportunity for planners and policymakers to tap into useful data that could inform both commercial development and residential housing decisions.
+
+“There’s a real opportunity in all of this,” he says. “Online platforms can help businesses, consumers, and policymakers turn this real-time data into actionable insights.”
+
+---
+
+When ‘Gentrification’ Isn’t About Housing
+
+New York Times
+
+Last winter, midway through my hourlong commute into Midtown Manhattan — having traversed part of Queens and all of chic north Brooklyn — I found myself reading about how a dish called a “chopped cheese,” a sort of cheese steak made with hamburger meat, had been gentrified. Once a specialty of uptown bodegas, the sandwich had caught the attention of novelty-seeking foodies: Whole Foods was selling them for twice what they cost in the Bronx, where they went for $4 and still do.
+
+The story of how we came to use an urban-theory concept like gentrification to talk about food might actually begin with Whole Foods. In 2014, when the company called collard greens “the new kale,” Mikki Kendall, writing in The Grio, labeled this “food gentrification” — the first step in a process whereby collards would become the sort of thing that smoothie shops pulverize into drinkability for well-heeled consumers. Kendall wondered if the greens might become pricier as a result. Some responded that there was little to worry about — kale’s cost had hardly budged over a decade of trendiness — but as the conversation progressed, it became clear that the issue wasn’t really commodity pricing; it was cultural ownership. Soon just about any traditional dish that found itself subjected to the enthusiasms of white foodie-dom was said to be “gentrified”: guacamole, egg creams, soup dumplings, burritos, pho. (This last one produced the unforgettable Huffington Post headline “This Food-Bro Is Gentrifying Vietnamese Pho.”)
+
+
+This usage proved awkward when it returned, twisted about itself like a Möbius strip, to questions of housing and economics. In 2016, BuzzFeed published an article by Doree Shafrir on the “tiny house” phenomenon — a vogue for living “simply” in minuscule, movable homes. The trend manages to cram a tremendous number of tedious affectations into tight quarters: design fetishism, ostentatious minimalism, costly self-abnegation. Shafrir points out that it’s “not new for people to be living in R.V.s or mobile homes; it’s just that there’s a new vocabulary to gentrify living in a small space.” A recent article in The New Republic, by Sarah Jones, connected tiny houses to two other lifestyle trends: “raw water” (unfiltered drinking water, often collected from the natural environment) and “#vanlife” (living in a van, but on Instagram). Those who collect their drinking water, Jones writes, have “adopted a hardship that poor people suffer, and stripped it of its association with poverty.” She adds: “Raw water is a way of gentrifying that poverty.”
+
+The poor are still gentrification’s victims, but in this new meaning, the harm is not rent increases and displacement — it’s something psychic, a theft of pride. Unlike housing, poverty is a potentially endless resource: Jeff Bezos could Hoover up all the wealth that exists in the world, then do nothing but drink rainwater collected from the roof of his ’79 Vanagon, and it wouldn’t stop the other seven billion of us from being poor. What this metaphorical gentrification points to instead is dishonesty, carelessness and cluelessness on the part of the privileged when they clomp into unfamiliar territory. When they actually profit from their “discovery” and repackaging of other people’s lifestyles, it’s a dispiriting re-enactment of long-running inequalities. But what seems most galling isn’t that they’re taking dollars off the table. It’s that they’re annoying.
+
+It’s not surprising that “gentrification” has become a more capacious idea lately: The phenomena it describes seem inescapable. But there’s something in this new usage that obfuscates as much as it reveals, lending cover to the much larger forces that shape our lives. Minority communities are being dismantled as macroeconomic winds transform urban America. Researchers are now concerned that the high cost of housing is a drag on our whole economy, with young people either trapped spending too much on rent or fleeing overheated urban markets altogether for places with worse jobs but cheaper housing. Some of them, I’ve heard, are even living out of vans.
+
+The word “gentrification” was coined almost offhandedly in 1964, by the British sociologist Ruth Glass, in an essay about postwar London. Looking around her, she saw a city becoming more modern and affluent. This came with certain ills: Commutes were getting longer, traffic worse, middle-class jobs more specialized (“project engineer”; “system analyst”) and menial ones more scarce. And something striking was happening in the working-class parts of town. They were being “invaded by the middle classes — upper and lower.” These newcomers were buying up the “shabby, modest mews and cottages” and turning them into “elegant, expensive residences.” “Once this process of ‘gentrification’ starts in a district,” Glass writes, “it goes on rapidly until all or most of the working-class occupiers are displaced, and the whole social character of the district is changed.”
+
+Her coinage contained within it an ambiguity that persists to this day. The root of “gentrification” — “gentry” — can refer either to those of not-quite-aristocratic birth or to those who profit from land ownership; either to the well-off in general or to the rentier class in particular. This lack of clarity is fitting: In a gentrifying neighborhood, title to the land is transferred first in the literal sense and then in the spiritual one, as local businesses and institutions change to serve the tastes of wealthier arrivals. To use “gentrification” to describe lifestyle trends is to focus on that second step rather than the first one — to focus on class signifiers instead of class itself.
+
+Last year, the academics Jason Patch, John Joe Schlichtman and Marc Lamont Hill published a book about gentrification that examined their own roles in the process, branding themselves right in the title: “Gentrifier.” This is another fascinating new twist on Glass’s term. After all, Britain’s rigid class system made it easy enough for her to clearly identify the people doing the gentrifying: It was the gentry. Here in the States, though, we’ve adopted a novel word meaning “one who gentrifies” — the active colonist, someone who tries on neighborhoods like shirts at a thrift shop. This turns gentrification into a lifestyle choice. Hence the scores of listicles that have cropped up on websites that cater to well-meaning millennials, working either to steer the budding gentrifier in a noble direction (Thought Catalog’s “10 Rules for Being a Good Gentrifier From an Urban Planner in Brooklyn”) or to suggest that she might avoid the epithet while still participating in the process (AlterNet’s “20 Ways Not to Be a Gentrifier”). Invariably these articles suggest shopping locally, talking to your neighbors and, above all, being self-aware about your impact. Befriending your bodega guy is a great thing to do, but it’s of limited assistance when the landlord triples his rent.
+
+
+If the logic of conscious consumerism has come to infect what we mean by “gentrification,” perhaps it’s because the process always begins with people who are expected to know better: the “creative class.” In a 1979 book called “Neighborhood Renewal,” the urban theorist Phillip L. Clay outlined four stages of gentrification: In the first, “pioneers” — often bohemians and artists — move to dilapidated or abandoned areas in search of cheaper rents; in the second, the middle classes follow; in the third, their numbers displace the original population; and in the final stage, the neighborhood is fully turned over to banks, developers and the wealthy. By this point, the artists are being priced out to another subway stop or another city — where they will be greeted as though they’ve come seeking adventure.
+
+But the journalist Peter Moskowitz, in the 2017 book “How to Kill a City,” suggests a fifth stage should be added to Clay’s list, so we can accommodate arrangements like those in Midtown Manhattan, where multimillion-dollar condominiums are built and sold to shell corporations, presumably owned by foreign billionaires, and often left vacant. “The fifth and last phase of gentrification,” he writes, “is when neighborhoods aren’t just more friendly to capital than to people but cease being places to live a normal life.” New York’s skyline is erupting with buildings like these — stacks of cash-stuffed mattresses teetering in the wind. And The Times reported last year that the West Village’s Bleecker Street had fallen victim to “high-rent blight,” with commercial space becoming so expensive ($45,000 a month) that even Marc Jacobs couldn’t keep his stores open; shops that once catered to the wealthy now sit empty, waiting for a tenant who can foot the bill. When the heist is done and it’s time to split the loot, capital snuffs out culture.
+
+And yet it’s culture — and its perceived appropriation — that has ingrained itself in the way we think about gentrification. It’s almost as though, in the face of unstoppable, invisible forces, we’ve grabbed hold of what we can see and control. Investors could buy and sell every building on your block without your ever noticing, but the coffee shop where the staff is mean to everybody is right in front of you. All the while, global flows of capital course through your metropolis, wearing down every bump and cranny. They will continue until the day it’s finally as smooth and featureless as a river rock — and you’re shopping around for a reasonably cozy van.
+
+---
+
+From Californian Exceptionalism to Statewide Gentrification
+
+Real Clear Policy
+
+“[The] development of the West is being predicated on fragmentary information, improvised planning, and the opportunistic promotion of ‘projects.’” So wrote the late, great writer and journalist Carey McWilliams in 1949. He concludes his book, “California: The Great Exception,” with this sentence:
+
+California needs men and women who can see beyond its mountains; who can see the entire West, and realize that, as with all good things, there comes a time when the gold runs out, when the exception disappears in the rule, and when California … must, indeed put on knowledge with its power and adopt, as an official policy, the same generous open-handedness with which its magic mountains have showered benefits on those lucky people, the Californians.
+
+McWilliams wrote these words as he witnessed California’s population explosion during and after World War II. In the 1940s and 50s, the state’s population more than doubled. Millions and millions of new Californians claimed the state motto: “Eureka!” (“I found it!”). While there was an initial period of “improvised planning,” state leaders in government, business, and civil society responded with breath-taking speed and creativity. As a state, we were young, ambitious, positive, welcoming.
+
+What the heck happened?
+
+A recent study by the state’s non-partisan Legislative Analysts’ Office (LAO) noted that between 2007 to 2016, 1 million more Californians left the state than moved in. These numbers are fairly consistent with trends we’ve seen in the last two decades, but the LAO researchers offer two reasons why this time is more alarming.
+
+First, the states Californians are moving to and those newcomers are arriving from. Californians are moving to Texas, Arizona, Nevada, and Oregon by the hundreds of thousands. And they’re coming from New York, Illinois, New Jersey, and Michigan in the tens of thousands. The report notes that this is the first time there has been this level of consistency.
+
+Secondly, the report highlights the particular people who are coming and going — in ways that dismantle California’s long-held image of itself as a burgeoning middle-class paradise, which McWilliams described more than half a century ago. By annual household income, Californians left the state in every category from “Under $15,000” up through $110,000. Starting at $111,000 and up, we see increases in new Californians moving in. What’s more, the LAO writes, “Families with kids and those and those with only a high school education predominate among those moving from California.” More kids (those under 18 years old) have left California in the last decade than any other age cohort.
+
+A state once known as a middle-class oasis is becoming increasingly older, richer, and less family-friendly. The reasons for these movements are well-known, from sky-rocketing housing prices to a lack of lower-middle-class jobs to the cost of energy — and don’t forget those taxes. A recent state-by-state study by CNBC even found the average cost of a ribeye steak and a gallon of milk to be higher in California than almost every other state, giving us an “F” grade in “Cost of Living.”
+
+We agree with California real-estate writer and analyst Patrick Sisson’s recent assessment of these developments: “California’s experiencing what looks like statewide gentrification.”
+
+But California as a whole — including our government and major business and civic institutions — seems either disengaged or overwhelmed by these historic trends. Once again, as McWilliams wrote before one of the last major population changes in our state’s history, we appear to be responding with “improvised” policy-making based on “fragmentary information.” It’s as if we don’t view these challenges as the “man-made problems” they really are, or worse, some are just hoping these problems will go away with the next recession.
+
+This is why the two of us have joined a bipartisan group of Californians — policy researchers, former pols, and community advocates — in forming something called the Economic Mobility Collaborative. The group has met up and down the state over the last year to deliberate over the central question: “How do we return California to a place of economic opportunity for all?” Our efforts are framed in a letter to the next governor. It’s signed by scores of the state’s civic leaders, and we welcome your signature too.
+
+In particular, in this election year, we call on our next governor to take what is really a very Californian approach to solving problems — evaluate, track, and respond. “We will urge the next Governor to endorse clear, specific targets for the state to achieve by 2030, and easy-to-follow metrics to track progress. Our shared goal should be measurable, visible change” in returning California to the economically diverse state it once was.
+
+Unlike the era McWilliams lived through, today the public policy world is increasingly transparent. Big data is used to form “policy performance dashboards” that track budgets, economic development, and infrastructure building and maintenance. In the last two decades, California has made significant progress in reducing greenhouse-gas emissions through multi-year goal-setting and regular assessment, and the aforementioned LAO studies the economic impact of legislative measures and ballot proposals.
+
+The time has come to match these new tools of analysis with the political will to do what Californians have always done: solve problems and provide opportunity for all.
+
+---
+
+'There Isn't A Just Housing Choice': How We've Enabled The Pains Of Gentrification
+
+NPR
+
+Gentrification is no longer something that just happens in low-income neighborhoods. As the phenomenon displaces communities of color, from Inglewood to Washington, D.C., "gentrification" has been co-opted to include food and culture as well. So, what does the loaded term really mean?
+
+According to urban sociologist John Schlichtman, gentrification cannot happen without disinvestment. In the book Gentrifier, Schlichtman and his co-authors, Marc Hill and Jason Patch, define gentrification as "the reinvestment of real estate investment money or capital into dis-invested, devalued, centrally-located neighborhoods, which fosters a new infrastructure for middle and high-income residents."
+
+The reason gentrification has a bad rap is due to the inequity between race and housing. "Race is, at its heart, a class issue," Schlichtman says. The devaluing of lower-class neighborhoods, usually residents of color, is the result of a history of unjust policies, including government defunding and redlining.
+
+Old Confronts New In A Gentrifying D.C. Neighborhood
+NATIONAL
+Old Confronts New In A Gentrifying D.C. Neighborhood
+What Does It Take To See Gentrification Before It Happens?
+13.7: COSMOS AND CULTURE
+What Does It Take To See Gentrification Before It Happens?
+"There is an unusual gap between the devaluing and the revaluing in the United States," Schlichtman says. "How that gap is filled needs to be controlled. We can't just let a tsunami of investment fill that gap. It's obviously going to wash things away."
+
+Schlichtman spoke with NPR's Lulu Garcia-Navarro about the complexities of gentrification, who's responsible for it and how we can minimize the pain it causes through a conscious shifting of priorities.
+
+Interview Highlights
+Who is a gentrifier?
+
+A gentrifier is a middle-class person who moves into a disinvested context at a time when other people are doing the same. And, that middle-class person is bringing middle-class buying power. And that effect occurs regardless of the racial, religious, class upbringing of that individual. But they're entering into a context in which that devaluing occurred through decades and decades of unjust policies: defunding by the government, redlining, racial covenants, blockbusting.
+
+On "gentrifier guilt"
+
+That guilt is felt because there is a perception that someone is benefiting from an unjust gap. The first question I ask in regards to gentrifier guilt is: What is the just context for a middle-class housing consumer? Is it the suburb? Is it the devalued neighborhood? Is it the bottom of a middle-class enclave in the city that has never had the devaluing? Is that the just context?
+
+There are many people of all backgrounds in the United States who are struggling with their housing choice and trying to figure out what the ethical footprint of their housing choice will be. I would argue that we have painted ourselves into a corner because of our history in the United States where there isn't a just housing choice.
+
+When A Historically Black University's Neighborhood Turns White
+
+On advice for people who have moved into a gentrified neighborhood
+
+You can't behave your way out of gentrification, but you can be a kind person. Much of the pain that occurs as a result of gentrification is the result of people who move into neighborhoods and they're imagining a future neighborhood. So no, supporting businesses that are currently existing, that's not going to stop gentrification but it is going to make people like you more.
+
+I think people need to own where they live; don't say you can't live somewhere else if you're middle-class. You could live in that suburb that isn't gentrifying. You could live at the bottom end of that middle-class community in the city that isn't gentrifying. But, there are other things that you're looking for. You're looking for class diversity, a racial diversity, an ethnic diversity. You're looking for restaurants; you're looking for a specific type of architecture. So, be honest about your housing choice.
+
+And finally, this needs to be fought with large-scale things. We need to put pressure on our city governments as a community to not put profit and investment as the number one priority. It can be balanced with other priorities of community.
+
+---
+
+Have big cities hijacked the gentrification debate?
+
+City Metric
+
+In July 2017, a group of long-time, mostly Latino residents of Los Angeles’s Boyle Heights neighborhood staged protests outside a trendy new coffee shop called Weird Wave Coffee, holding signs that read “Amerikkkano” and “WHITE COFFEE.”
+
+ADVERTISING
+
+inRead invented by Teads
+Across the country in Brooklyn’s rapidly gentrifying Crown Heights neighborhood, locals lashed out over a new restaurant with decor that included fake bullet holes and a menu that offered a drink called “40 ounce rosé” (malt liquor and wine) served in a paper bag.
+
+Over the past few decades, gentrification debates have migrated from the pages of academic journals into the streets and the mainstream press.
+
+The word, in many ways, is tinged with negativity. And for good reason. In tight real estate markets, it can lead to development that privileges profits over community and shuts people out of neighborhoods they have lived in for decades.
+
+But what about cities struggling to overcome the threat of bankruptcy like Hartford? How does gentrification look in New South cities like Austin and Nashville, where midcentury urban planning destroyed residential communities and left downtowns largely unoccupied?
+
+While doing research on the economic health of Hartford, one of us asked the head of a downtown Hartford nonprofit about gentrification. Her response? “We could use some of that. But we are so far away from it, it’s not even an issue.”
+
+If residential patterns and urban areas vary, so too must the story of gentrification. In other words: Have big cities hijacked the gentrification debate?
+
+The origins of gentrification
+“Gentrification” is a term coined by the British sociologist Ruth Glass in 1964 to explain the return of the middle class to London’s city centre.
+
+In the US, academics and urban planners first started extensively talking about and debating gentrification in the 1970s. Between 1950 and 1970, urban manufacturing went overseas and white middle-class city-dwellers moved to the suburbs. Concerns over blighted urban centers grew. Sociologists, planners and geographers found new cultural and economic trends to study related to the rise of artist and middle-class loft living and the return of capital investment to urban centers.
+
+Today, the meaning of gentrification no longer refers to the “return to the center.” Instead, it usually means that new and affluent residents or developers are investing in a neighbourhood.
+
+This infusion of capital changes the relationships within and between communities. Demand increases and property values rise; poorer residents are displaced as wealthier people move in; new shops appear and the public image of the neighborhood changes. High demand can incentivise landlords to evict residents, at times using egregious practices – like hiring someone to harass renters – in order to escalate rental prices.
+
+Extreme gentrification takes place in the highest-rent, highest-demand places like San Francisco or New York’s Greenwich Village. Rents in New York’s once-booming Bleecker Street have become so astronomical that vacancy is now a problem of too much demand, rather than not enough: property owners now keep their storefronts empty, hoping a major chain will want to locate in the high-visibility district.
+
+Gentrification isn’t all negative. In an influential and counterintuitive study, Lance Freeman and Frank Braconi, who study urban development, found that poorer residents were less likely to move out of gentrifying neighborhoods than nongentrifying neighborhoods. Safety improves with gentrification, and so can services and amenities.
+
+While some neighborhoods experience positive outcomes, gentrification studies are mostly concerned with access to housing, public space and the loss of community. It seems impossible not to view New York, San Francisco, Los Angeles or Boston through the lens of skyrocketing real estate and displaced residents.
+
+What about other kinds of places?
+
+The urban in-between
+When cities experienced population and economic decline decades ago, some, like New York and Boston, found ways to rebound. Others, like Detroit or Connecticut’s largest city, Hartford, did not.
+
+
+Stephen Henderson
+@SHDetroit
+ Sorry.. as a Detroit native who has seen this place rot from the inside out, I'd kill for a little gentrification. #detroitfuture #gentd
+
+5:34 PM - Dec 14, 2011
+2
+See Stephen Henderson's other Tweets
+Twitter Ads info and privacy
+Hartford continues to experience unusual and difficult financial circumstances. The city has low home-ownership rates and high poverty rates. But maybe more significant is that the city is the state’s capital. Half of the city’s real estate is made up of government buildings, educational facilities or hospitals – all of which are non-taxable. With a $65m deficit, Hartford is now on the verge of bankruptcy.
+
+Where is Hartford’s gentrification? Or, more precisely, is there a kind of gentrification that would be welcomed in a place like Hartford? A place like Hartford could learn from smaller cities, which are less afflicted by the bloated real estate and speculation that plague places like New York and San Francisco.
+
+In a deindustrialised small city like North Adams, Massachusetts, for example, gentrification is welcomed. The old mill city near the Berkshire Mountains had its sprawling electrical manufacturing plant, Sprague Electric, transformed into a contemporary fine art museum, MASS MoCA. The museum, in turn, helped transformed the city from a shrinking post-industrial community into an arts and cultural destination. The museum injected $34.4m into the local economy in 2015, drawing tourists, lowering unemployment levels and creating opportunities for new businesses.
+
+Tourism jobs are not the skilled union jobs Sprague Electric once offered. But without other opportunities, the community welcomes this kind of gentrification. The town was built for 20,000, but only has 13,000 residents. The community wants – indeed, it needs – more people.
+
+There is also what we could call “empty lot” gentrification. Gentrification doesn’t always displace existing populations. Consider cities like Nashville, Tennessee and Austin, Texas, where suburbs bloomed in the post war era. The center cities never housed the heavy manufacturing of northeastern and Rust Belt cities; until recently, they remained sites of light manufacturing, parking garages and empty lots.
+
+In the early 2000s, former Austin mayor (and real estate entrepreneur) Will Wynn sought to build more residential properties in downtown Austin, and Austin has since seen dramatic residential growth. Empty lot gentrification has its own issues: it can create downtowns for elites. Concerns over gentrification beyond Austin’s city centre have grown, and Austin’s famed music venues are getting priced out.
+
+
+A tale of two kinds of cities.
+
+In bloated real estate markets like New York or San Francisco, critics of gentrification see even the smallest changes – a new park or a new coffee shop – as harbingers for inevitable neighborhood ruin.
+
+For cities needing gentrification, the issues are different. The conversation about popular cities has made academics and policy analysts timid about gentrification. Ailing small cities need to increase visibility to attract more people and develop a stable tax-base.
+
+Hardly a call for free market-driven housing policy, there is no reason policies that minimise the negative effects of gentrification – rent control, mixed income housing and limited equity cooperatives – cannot be combined with efforts to attract the middle class.
+
+The gentrification debates should also not blind us to what made New York and San Francisco attractive cities in the first place. The principles of urban activist Jane Jacobs for healthy city life still hold: diverse uses of streets and public places, mixed-use buildings, a variety of economic and commercial opportunities and local excitement about community building.
+
+But simply getting people into the city cannot be overlooked. In North Adams, new opportunities come from investing in the arts. In Pittsburgh, an openness to technical innovation, museums, universities and a dynamic restaurant culture are creating national buzz about a city that continues to lose population. Detroit just hired the nation’s first chief story-teller to help move the narrative away from stale stereotypes. Throughout European cities, night mayors are charged with inspiring excitement around urban nightlife.
+
+Hartford will never become New York. But why not look to North Adams, Pittsburgh or Columbus for examples of a different kind of gentrification?

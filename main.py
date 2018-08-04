@@ -30,6 +30,5 @@ def main():
     bot = TweetBot()
     bot.automate(3600)
 
-print(__name__)
 if __name__ == "__main__":
     main()
