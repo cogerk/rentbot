@@ -92,7 +92,7 @@ def generate_words_grammar():
         parsed_sent = nltk.pos_tag(sent)
         for word in parsed_sent:
             no_syls = count_syllables(word[0])
-            if word[1] in ['NNS', 'JJ', 'NN']:
+            if word[1] in ['NNS', 'JJ', 'NN'] and len(word[0])>1:
                 if no_syls == 1:
                     syls_1 = syls_1 + [word[0]]
                 elif no_syls == 2:
