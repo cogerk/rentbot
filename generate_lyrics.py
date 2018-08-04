@@ -1,6 +1,6 @@
 # imports
 import random
-from words_vars import *
+from words_vars import * # List of words saved by save_word_list
 
 
 def generate_lyrics():
