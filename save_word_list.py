@@ -16,11 +16,12 @@ from generate_word_list import generate_words_grammar
 # # Not quite enough  1 syl. & 2 syl. words, so we'll supplement a few more corpuses
 # words1 = find_after_in(corpus='bible-kjv.txt', corpus_list='nltk.corpus.gutenberg')
 # words2 = find_after_in(corpus='carroll-alice.txt', corpus_list='nltk.corpus.gutenberg')
-syls_1, syls_2, syls_4 = generate_words_grammar()
+syls_1, syls_2, syls_4, syls_2_sing = generate_words_grammar()
 
 
 f = open('words_vars.py', 'w')
 f.write('syls_1 = ' + repr(syls_1) + '\n')
 f.write('syls_2 = ' + repr(syls_2) + '\n')
+f.write('syls_2_sing = ' + repr(syls_2_sing) + '\n' )
 f.write('syls_4 = ' + repr(syls_4) + '\n' )
 f.close()

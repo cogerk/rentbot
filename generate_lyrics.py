@@ -24,11 +24,12 @@ def generate_lyrics():
                 rand_syls_2[4] + ', in ' + rand_syls_1[1] + '.')
     else:
         rand_syls_1 = random.choices(syls_1, k=3)
-        rand_syls_2 = random.choices(syls_2, k=6)
+        rand_syls_2 = random.choices(syls_2, k=5)
+        rand_syls_2_sing = random.choices(syls_2_sing+syls_2)
         return ('How do you measure? Measure a year?\n' +
                 'In ' + rand_syls_2[0] + ',\n' +
                 'In ' + rand_syls_2[1] + ',\n' +
                 'In ' + rand_syls_2[2] + ',\n' +
-                'In ' + rand_syls_1[0] + ' of ' + rand_syls_2[3] + '.\n\n' +
-                'In ' + rand_syls_2[4] + ', in ' + rand_syls_1[1] + ', in ' +
-                rand_syls_2[5] + ', in ' + rand_syls_1[2] + '.')
+                'In ' + rand_syls_1[0] + ' of ' + rand_syls_2_sing[0]  + '.\n\n' +
+                'In ' + rand_syls_2[3] + ', in ' + rand_syls_1[1] + ', in ' +
+                rand_syls_2[4] + ', in ' + rand_syls_1[2] + '.')

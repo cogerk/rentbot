@@ -77,8 +77,6 @@ def generate_words_grammar():
     :param corpus: the text to pull from
     :return:
     """
-    syls_1 = []
-    syls_2 = []
     corpusdir = 'corpus'
     gentrification = PlaintextCorpusReader(corpusdir, '.*')
     gentrify_sents = gentrification.sents()
@@ -87,19 +85,22 @@ def generate_words_grammar():
     syls_1 = []
     syls_2 = []
     syls_4 = []
-
+    syls_2_sing = []
     for sent in corpus_sents:
         parsed_sent = nltk.pos_tag(sent)
         for word in parsed_sent:
             no_syls = count_syllables(word[0])
-            if word[1] in ['NNS', 'JJ', 'NN'] and len(word[0])>1:
+            if word[1] == 'NNS' and len(word[0])>1:
                 if no_syls == 1:
-                    syls_1 = syls_1 + [word[0]]
+                    syls_1 = syls_1 + [word[0].lower()]
                 elif no_syls == 2:
-                    syls_2 = syls_2 + [word[0]]
+                    syls_2 = syls_2 + [word[0].lower()]
                 elif no_syls == 4:
-                    syls_4 = syls_4+ [word[0]]
-    return list(set(syls_1)), list(set(syls_2)), list(set(syls_4))
+                    syls_4 = syls_4+ [word[0].lower()]
+            if word[1] == 'NN':
+                if no_syls == 2:
+                    syls_2_sing = syls_2_sing + [word[0].lower()]
+    return list(set(syls_1)), list(set(syls_2)), list(set(syls_4)), list(set(syls_2_sing))
 
     # # Loop until we have 3 1 syllable words and 6 two syllable words
     #
