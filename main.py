@@ -1,4 +1,5 @@
 import tweepy
+import sys
 from time import sleep
 from generate_lyrics import generate_lyrics
 from tokens import *
@@ -27,7 +28,13 @@ class TweetBot:
 
 
 def main():
-    bot = TweetBot()
+    try:
+        bot = TweetBot()
+    except KeyboardInterrupt:
+        sys.exit("KeyboardInterrupt")
+    except Exception as e:
+        print(e)
+        pass
     bot.automate(3600)
 
 if __name__ == "__main__":
