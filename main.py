@@ -22,9 +22,7 @@ class TweetBot:
             print(error.reason)
 
     def automate(self, delay):
-        while True:
-            self.tweet()
-            sleep(delay)
+        self.tweet()
 
 
 def main():
@@ -35,7 +33,6 @@ def main():
     except Exception as e:
         print(e)
         pass
-    bot.automate(3600)
 
 if __name__ == "__main__":
     main()
