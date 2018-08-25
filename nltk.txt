@@ -1,0 +1,3 @@
+cmudict
+webtext
+gutenberg
