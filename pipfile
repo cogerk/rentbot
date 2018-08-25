@@ -1,0 +1,15 @@
+
+[[source]]
+
+
+[packages]
+
+tweepy = "*"
+time = "*"
+random = "*"
+nltk = "*"
+string="*"
+
+[requires]
+
+python_version = "3.6"
