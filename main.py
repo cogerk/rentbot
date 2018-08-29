@@ -1,13 +1,16 @@
 import tweepy
-import warnings
+import os
 import sys
 from generate_lyrics import generate_lyrics
 
 try:
     from tokens import *
 except ModuleNotFoundError:
-    warnings.warn('No tokens.py file, ensure tokens are included as config variables.',
-                   ImportWarning)
+    print('Getting access tokens from Heroku Environment...')
+    access_secret = os.environ.get('ACCESS_SECRET')
+    access_token = os.environ.get('ACCESS_TOKEN')
+    consumer_key = os.environ.get('CONSUMER_KEY')
+    consumer_secret = os.environ.get('CONSUMER_SECRET')
 
 class TweetBot:
     def __init__(self):
