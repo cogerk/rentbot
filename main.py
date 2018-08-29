@@ -1,9 +1,13 @@
 import tweepy
+import warnings
 import sys
-from time import sleep
 from generate_lyrics import generate_lyrics
-from tokens import *
 
+try:
+    from tokens import *
+except ModuleNotFoundError:
+    warnings.print('No tokens.py file, ensure tokens are included as config variables.',
+                   ImportWarning)
 
 class TweetBot:
     def __init__(self):
