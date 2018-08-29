@@ -21,7 +21,7 @@ class TweetBot:
         except tweepy.TweepError as error:
             print(error.reason)
 
-    def automate(self, delay):
+    def automate(self):
         self.tweet()
 
 
@@ -33,6 +33,7 @@ def main():
     except Exception as e:
         print(e)
         pass
+    bot.automate()
 
 if __name__ == "__main__":
     main()
