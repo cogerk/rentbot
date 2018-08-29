@@ -6,7 +6,7 @@ from generate_lyrics import generate_lyrics
 try:
     from tokens import *
 except ModuleNotFoundError:
-    warnings.print('No tokens.py file, ensure tokens are included as config variables.',
+    warnings.warn('No tokens.py file, ensure tokens are included as config variables.',
                    ImportWarning)
 
 class TweetBot:
